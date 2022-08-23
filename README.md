@@ -9,7 +9,7 @@ I'm a developer who likes learning new everyday, very curious and loves challeng
 * 🌍  I'm based in Buenos Aires Argentina
 * ✉️  You can contact me at [juansegui06@gmail.com](mailto:juansegui06@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Everyone
+* 🤝  I'm open to collaborating with Everyone
 
 ### Skills
 
